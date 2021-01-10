@@ -1,0 +1,16 @@
+{
+    "name": "com.gamefarts.library.localisation",
+    "version": "1.0.0",
+    "displayName": "Game Farts Localisation",
+    "description": "JSON based localisation service",
+    "unity": "2019.1",
+    "author": {
+        "name": "Abban Dunne",
+        "url": "https://abandon.ie"
+    },
+    "samples": [],
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.3",
+        "com.gamefarts.library.eventbus": "1.0.1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "key": "buttonPlay",
+            "value": "Play"
+        },
+        {
+            "key": "walkText",
+            "value": "A nice walk"
+        }
+    ]
+}

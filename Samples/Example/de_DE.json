@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "key": "buttonPlay",
+            "value": "Abspielen"
+        },
+        {
+            "key": "walkText",
+            "value": "Ein schöner Spaziergang"
+        }
+    ]
+}
