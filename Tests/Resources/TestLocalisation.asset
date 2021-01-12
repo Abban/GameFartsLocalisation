@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 60eab872e55544f89759c6af42eededf, type: 3}
-  m_Name: TestLocalisationService
+  m_Name: TestLocalisation
   m_EditorClassIdentifier: 
   eventBus: {fileID: 11400000, guid: 9365752b7e5e04a0a94d5d443dad0004, type: 2}
   locales:
