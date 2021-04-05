@@ -1,6 +1,6 @@
 {
     "name": "com.gamefarts.library.localisation",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "displayName": "Game Farts Localisation",
     "description": "JSON based localisation service",
     "unity": "2019.1",
