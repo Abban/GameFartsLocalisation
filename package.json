@@ -8,7 +8,13 @@
         "name": "Abban Dunne",
         "url": "https://abandon.ie"
     },
-    "samples": [],
+    "samples": [
+        {
+            "displayName": "Example",
+            "description": "Example of using the Localisation Package",
+            "path": "Samples~/Example"
+        }
+    ],
     "dependencies": {
         "com.unity.textmeshpro": "3.0.3",
         "com.gamefarts.library.eventbus": "1.0.1"

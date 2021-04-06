@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace GF.Library.i18n
 {
-    [CreateAssetMenu(fileName = "LocalisationService", menuName = "GF/Localisation Service")]
+    [CreateAssetMenu(fileName = "LocalisationService", menuName = "GF/Localisation/Localisation Service")]
     public class LocalisationScriptableObject : ScriptableObject, ILocalisation
     {
         [SerializeField] private EventBusScriptableObject eventBus = null;
